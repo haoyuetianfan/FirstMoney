@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deployments>
+  <deployment context-root="/FirstMoney" deployment-path="F:/WorkspacesMoney/.metadata/.me_tcat7/webapps/FirstMoney" project-name="FirstMoney" server-id="myeclipseTomcatServer7" state="DEPLOYED" type="WEB"/>
+</deployments>
